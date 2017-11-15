@@ -1,0 +1,41 @@
+<?xml version="1.0" standalone="yes"?>
+<catalog>
+  <book>
+    <Id>bk109</Id>
+    <author>Kress, Peter</author>
+    <title>Paradox Lost</title>
+    <genre>Science Fiction</genre>
+    <price>6.95</price>
+    <publish_date>2000-11-02</publish_date>
+    <description>After an inadvertant trip through a Heisenberg
+      Uncertainty Device, James Salway discovers the problems 
+      of being quantum.</description>
+  </book>
+  <book>
+    <Id>bk001</Id>
+    <author>Goarge J.J Martin</author>
+    <title>Game Of Thrones</title>
+    <genre>Fantasy, Drama, Horror</genre>
+    <price>699.99</price>
+    <publish_date>03-Aug-15 9:08:52 PM</publish_date>
+    <description>American fantasy drama</description>
+  </book>
+  <book>
+    <Id>bk002</Id>
+    <author>N/A</author>
+    <title>The Lord Of The Rings</title>
+    <genre>Fantasy, Drama, Horror</genre>
+    <price>569.55</price>
+    <publish_date>03-Aug-15 9:21:52 PM</publish_date>
+    <description>N/A</description>
+  </book>
+  <book>
+    <Id>bk3</Id>
+    <author>ZED</author>
+    <title>ZED</title>
+    <genre>ZED</genre>
+    <price>22222</price>
+    <publish_date>31-May-17 2:33:03 PM</publish_date>
+    <description>ZED</description>
+  </book>
+</catalog>

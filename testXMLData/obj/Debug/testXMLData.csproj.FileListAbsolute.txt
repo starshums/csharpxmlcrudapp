@@ -1,0 +1,11 @@
+c:\users\starshums\documents\visual studio 2013\Projects\testXMLData\testXMLData\bin\Debug\testXMLData.exe.config
+c:\users\starshums\documents\visual studio 2013\Projects\testXMLData\testXMLData\bin\Debug\testXMLData.exe
+c:\users\starshums\documents\visual studio 2013\Projects\testXMLData\testXMLData\bin\Debug\testXMLData.pdb
+c:\users\starshums\documents\visual studio 2013\Projects\testXMLData\testXMLData\obj\Debug\testXMLData.csprojResolveAssemblyReference.cache
+c:\users\starshums\documents\visual studio 2013\Projects\testXMLData\testXMLData\obj\Debug\testXMLData.Form1.resources
+c:\users\starshums\documents\visual studio 2013\Projects\testXMLData\testXMLData\obj\Debug\testXMLData.Properties.Resources.resources
+c:\users\starshums\documents\visual studio 2013\Projects\testXMLData\testXMLData\obj\Debug\testXMLData.csproj.GenerateResource.Cache
+c:\users\starshums\documents\visual studio 2013\Projects\testXMLData\testXMLData\obj\Debug\testXMLData.exe
+c:\users\starshums\documents\visual studio 2013\Projects\testXMLData\testXMLData\obj\Debug\testXMLData.pdb
+c:\users\starshums\documents\visual studio 2013\Projects\testXMLData\testXMLData\obj\Debug\testXMLData.frmAddBook.resources
+c:\users\starshums\documents\visual studio 2013\Projects\testXMLData\testXMLData\obj\Debug\testXMLData.frmModifyBook.resources
